@@ -1,7 +1,7 @@
 {
-  "name": "unvcode",
+  "name": "erjiancode",
   "version": "1.0.0",
-  "description": "【幼女Code】反和谐超级武器！",
+  "description": "【二简Code】简体字到二简字！",
   "scripts": {
     "build": "vite build",
     "dev": "vite"

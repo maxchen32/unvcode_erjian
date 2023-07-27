@@ -17,7 +17,7 @@ const output = computed(() => {
 
 <template>
   <h1>
-    幼女code
+    二简code
   </h1>
   <p>
     <input class="synth" type='text' placeholder='输入你的字' v-model="input" />
@@ -30,11 +30,7 @@ const output = computed(() => {
   </p>
   <div class="底">
     <p>
-      如果你觉得幼女Code对你的工作或学习有所帮助，欢迎给作者送一些幼女过来，然后顺便来给这个<a href='https://github.com/RimoChan/unvcode'
-        target='_blank'>GitHub仓库</a>加星。
-    </p>
-    <p>
-      © 2077 | Rimo | MPL-2.0
+      © 2023 | Rimo | maxchen32 | MPL-2.0
     </p>
   </div>
 </template>
